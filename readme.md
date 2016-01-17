@@ -1,4 +1,4 @@
-# Hello. This is the JellyThemes File include for my tutorials on Youtube.
+# Jelly Themes - Source code for tutorials on Youtube
 
 JellyThemes Channel: https://goo.gl/577rWC
 
