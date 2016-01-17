@@ -12,5 +12,8 @@ Check the GitHub repo here: https://github.com/tienloc1/jellythemes-file
 #### I want to contribute
 Contact me on [Twitter](@Loc_rabbirt)
 
+#### I want request custom work
+Contact me via outsource@designerresource.org
+
 #### License
 Ecommerce License - you need purchase [wordpress theme](http://themeforest.net/user/jellythemes/portfolio?ref=Loc_rabbirt) from jellythemes before do anything.
