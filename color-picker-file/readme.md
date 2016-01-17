@@ -1,7 +1,7 @@
 # Hello. This is the JellyThemes File include for my tutorials on Youtube.
 
-JellyThemes Channel: https://goo.gl/577rWC.
-JellyThemes - Add color picker option in elixir theme: https://youtu.be/4Qzd5RVIutw.
+*JellyThemes Channel: https://goo.gl/577rWC.
+*JellyThemes - Add color picker option in elixir theme: https://youtu.be/4Qzd5RVIutw.
 
 Code by Designer Resource Team and video edit by Loc_rabbirt.
 
